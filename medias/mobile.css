@@ -1,0 +1,72 @@
+/* Extra small devices (phones, 600px and down) */
+.header-container{
+    flex-direction: column;
+    background-color: rgb(36, 31, 31);
+    border-radius: 20px;
+    margin-left: 20px;
+    width: 400px;
+}
+.header-text{
+    font-size: 20px;
+}
+.header-and-paragraph{
+    color: white;
+    margin-top: 10px;
+    margin-left: 120px;
+}
+.watch-live{
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    background-color: red;
+    border-radius: 4px;
+    padding: 10px;
+}div img{
+    width: 251px;
+    margin-left: 90px;
+}
+/* ---------------- body style ---------------- */
+.seconde-container{
+    flex-direction: column;
+}
+.blog-box{
+    background-color: white;
+    margin-top: 2px;
+    width: 10px;
+    height: 2px;
+    padding: 0px;
+}
+.blog-box a{
+    display: flex;
+    justify-content: center;
+    margin-top: 2px;
+    margin-left: 10px;
+}
+#blog-link-bottom{
+    display: flex;
+    justify-content: center;
+    background-color: red;
+    color: white;
+}
+.blogs-boss{
+    display: inline;
+    margin-top: 150px;
+}
+.player-info{
+    margin-left: 90px;
+}
+.rating{
+    margin-left: 90px;
+}
+
+footer{
+    background-color: rgb(36, 31, 31);
+    margin-top: 100px;
+    height: 550px;
+    text-align: center;
+}
+.footer-paragraph{
+    flex-direction: column;
+    justify-content:space-evenly;
+    color: rgb(138, 135, 135);
+}
