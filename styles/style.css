@@ -92,3 +92,30 @@ div img{
     margin-left: 20px;
 }
 /* main body style end  */
+
+/*--------------
+-----footer style start -----*/
+footer{
+    background-color: rgb(36, 31, 31);
+    margin-top: 200px;
+    height: 350px;
+}
+h2{
+    text-align: center;
+    color: white;
+    font-weight: 700;
+    font-size: 30px;
+    padding-top: 120px;
+}
+hr{
+    width: 50%;
+    color: gray;
+}
+.footer-paragraph{
+    display: flex;
+    justify-content:space-evenly;
+    color: rgb(138, 135, 135);
+    margin-top: 50px;
+}
+/*--------------
+-----footer style end -----*/
