@@ -1,0 +1,37 @@
+/* google font  */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* header styles  */
+.header-container{
+    display: flex;
+    background-color: rgb(36, 31, 31);
+    border-radius: 20px;
+    margin: 30px 100px;
+    margin-top: 50px;
+    height: 556px;
+}
+.header-text{
+    font-size: 80px;
+}
+.header-and-paragraph{
+    width: 50%;
+    margin-left: 100px;
+    color: white;
+}
+.header-paragraph{
+    margin-bottom: 50px;
+}
+.watch-live{
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    background-color: red;
+    border-radius: 4px;
+    padding: 10px;
+}
+div img{
+    width: 500px;
+    margin-top: 30px;
+    margin-right: 30px;
+}
