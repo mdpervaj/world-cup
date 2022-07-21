@@ -45,6 +45,7 @@ div img{
 }
 .link-bottom{
     display: flex;
+    justify-content: center;
     text-decoration: none;
     color: black;
     background-color: white;
@@ -85,8 +86,11 @@ div img{
     margin-top: 90px;
 }
 /* main body end ---------------------------------- */
+
+/* footer ------------ */
 footer{
     background-color: rgb(36, 31, 31);
     margin-top: 80px;
     height: 350px;
 }
+/* footer end --------- */

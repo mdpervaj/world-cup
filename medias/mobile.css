@@ -52,11 +52,16 @@
     display: inline;
     margin-top: 150px;
 }
+.player-image img{
+    width: 350px;
+    height: 100x;
+    margin-left: 50px;
+}
 .player-info{
-    margin-left: 90px;
+    margin-left: 50px;
 }
 .rating{
-    margin-left: 90px;
+    margin-left: 50px;
 }
 /* --------- body style end ------------------------- */
 
