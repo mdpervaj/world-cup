@@ -121,5 +121,16 @@ hr{
     color: rgb(138, 135, 135);
     margin-top: 50px;
 }
+.socila-media-icon a{
+    display: inline;
+    justify-content: center;
+    color: gray;
+    margin-left: 50px;
+    font-size: 25px;
+}
+.icon-boss{
+    margin-top: 20px;
+    margin-left: 500px;
+}
 /*--------------
 -----footer style end -----*/
