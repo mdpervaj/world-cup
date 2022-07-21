@@ -1,4 +1,74 @@
 /* Small devices (portrait tablets and large phones, 600px and up) */
-{
-
+body{
+    background-color: rgb(214, 210, 210);
 }
+
+/* header style ----------------------------------- */
+.header-container{
+    display: flex;
+    background-color: rgb(36, 31, 31);
+    border-radius: 20px;
+    margin: 30px 100px;
+    margin-top: 50px;
+    height: 500px;
+}
+.header-text{
+    font-size: 40px;
+}
+.header-and-paragraph{
+    width: 50%;
+    margin-left: 50px;
+    margin-top: 80px;
+    color: white;
+}
+div img{
+    width: 395px;
+    margin-top: 85px;
+    margin-right: 30px;
+    margin-left: 20px;
+}
+/* header end---------------------- */
+
+/* main body style ------------------------------ */
+.seconde-container{
+    display: inline;
+}
+.blog-box{
+    flex-direction: column;
+    margin-top: 10px;
+    padding: 0px;
+    margin-left: 420px;
+    margin-right: 10px;
+    margin-bottom: 120px;
+    width: 0px;
+    height: 2px;
+}
+.link-bottom{
+    display: flex;
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    border-radius: 5px;
+    padding: 15px 30px;
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 10px;
+    width: 150px;
+}
+.blogs-boss{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin-top: 10px;
+    margin-left: 90px;
+}
+.player-image img{
+    width: 340px;
+    height: 50x;
+}
+.player-info {
+    margin-left: 20px;
+}
+.rating{
+    margin-left: 20px;
+}
+/* main body end ---------------------------------- */
