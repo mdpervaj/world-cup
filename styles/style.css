@@ -92,6 +92,9 @@ div img{
 #comment-icon{
     margin-left: 20px;
 }
+.View-All a{
+ display: none;
+}
 /* main body style end  */
 
 /*--------------
